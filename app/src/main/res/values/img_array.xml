@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="random_imgs">
+        <item>@mipmap/basket</item>
+        <item>@mipmap/candles</item>
+        <item>@mipmap/candycane</item>
+        <item>@mipmap/christmastree</item>
+        <item>@mipmap/cookies</item>
+        <item>@mipmap/elf</item>
+        <item>@mipmap/gifts</item>
+        <item>@mipmap/pines</item>
+        <item>@mipmap/santaaclaus</item>
+        <item>@mipmap/santaclaus</item>
+        <item>@mipmap/snowflakes</item>
+        <item>@mipmap/snowman</item>
+        <item>@mipmap/streetlight</item>
+        <item>@mipmap/basket</item>
+        <item>@mipmap/candles</item>
+        <item>@mipmap/candycane</item>
+        <item>@mipmap/christmastree</item>
+        <item>@mipmap/cookies</item>
+        <item>@mipmap/elf</item>
+        <item>@mipmap/gifts</item>
+    </integer-array>
+</resources>
